@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Ezhik-777
-- 🌱 I’m currently learning python
-- 📫 How to reach me // here
 
 <!---
 Ezhik-777/Ezhik-777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
